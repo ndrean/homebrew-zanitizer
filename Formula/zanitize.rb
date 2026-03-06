@@ -7,7 +7,7 @@ class Zanitize < Formula
   on_macos do
     on_arm do
       url "https://github.com/ndrean/zanitizer/releases/download/v#{version}/zan-darwin-arm64.tar.gz"
-      sha256 "8de6f47d9aff0be9b48b4d4ae0553021f2c0216c6b82e9feb8ab984184236b7e"
+      sha256 "10e9547071926ba26dd5dc770d4eca304129844226c07f14e1ef45c9189776bc"
     end
   end
 
