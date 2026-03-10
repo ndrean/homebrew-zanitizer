@@ -1,7 +1,7 @@
 class Zanitize < Formula
   desc "Fast HTML+CSS sanitizer — DOM-aware, not regex-based"
   homepage "https://github.com/ndrean/zanitizer"
-  version "0.1.7"
+  version "0.2.0"
   license "MIT"
 
   on_macos do
